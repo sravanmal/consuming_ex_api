@@ -1,0 +1,21 @@
+itemNo,itemDesc,materialNo_ID,plant,quantity,unitPrice,header_requestNo
+ab5a0dcc-0ff2-4b8e-b33d-b99d0659eg94,Item 1,m1,Plant A,10,500.00,74dd3906-413c-4ff3-bba9-01d109187988
+bb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 2,m2,Plant B,20,300.34,f8e9a4e6-abea-4a64-ae87-1a7307a5a4e6
+cb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 3,m3,Plant C,15,2534.98,9a36e594-5de1-4b8e-ac59-9ea2293e05f0
+db5a0dcc-0ff2-4b8e-b33d-b99d0859ef94,Item 4,m4,Plant A,50,600.00,1e6b0f77-782b-4876-a524-c09cb01242bb
+eb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 5,m5,Plant B,30,404.44,b493865f-91de-4adb-89da-6e48fdd0d944
+fb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 6,m6,Plant D,40,3534.09,e78e980d-0bd1-481a-ac69-f1e11215c29d
+gb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 7,m7,Plant A,10,5555.58,98502f87-d405-49cf-b3ab-365294678eaa
+hb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 8,m8,Plant C,25,456.98,5b5a0dcc-0ff2-4b8e-b33d-b99d0659ef94
+ib5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 9,m9,Plant D,12,7003.87,194f482b-8899-4baf-95ca-a1e9abc95689
+jb5a0dcc-0ff2-4b8e-b33d-b90d0659ef94,Item 10,m10,Plant A,33,800.00,f5ac3c5e-1381-4f09-a77e-b8015592f692
+kb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 11,m11,Plant B,60,659.00,a49fef2a-28bd-42bd-a5ce-7fbc9c23d83c
+lb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 12,m12,Plant C,5,1500.00,ef254c33-8407-4080-befb-89f268663a2a
+mb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 13,m13,Plant D,80,2098.78,995c4b47-731a-4b5d-b803-09118c972371
+nb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 14,m14,Plant A,22,7550.80,e2e4d6dd-547b-45c8-a925-223e84938d41
+ob5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 15,m15,Plant B,14,5502.00,39fd7080-5e0b-4fc5-a051-88def5f2f07b
+pb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 16,m16,Plant C,18,900.00,1aeba951-7085-4b29-b77a-256acf6cbcb5
+qb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 17,m17,Plant D,30,504.00,9839ed59-2709-48a9-869f-c4648b6a6e32
+rb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 18,m18,Plant A,45,4000.50,136e855d-e862-404a-96bd-a7cfe4311b5a
+sb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 19,m19,Plant B,10,6087.98,7ecc55f8-7065-46fc-a607-19bf670023f1
+tb5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Item 20,m20,Plant C,20,8506.40,4ec7ca4f-c3d1-455e-b9e5-75a9064313e9

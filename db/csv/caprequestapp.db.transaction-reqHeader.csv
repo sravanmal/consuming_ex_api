@@ -1,0 +1,21 @@
+requestNo,requestDesc,status_statusId,totalPrice
+74dd3906-413c-4ff3-bba9-01d109187988,New Office Supplies Order,Ordered,50000.00
+f8e9a4e6-abea-4a64-ae87-1a7307a5a4e6,Equipment Replacement Request,Rejected,34567.67
+9a36e594-5de1-4b8e-ac59-9ea2293e05f0,Monthly Inventory Purchase,Saved,67890.00
+1e6b0f77-782b-4876-a524-c09cb01242bb,Urgent Materials for Project X,Ordered,12345.00
+b493865f-91de-4adb-89da-6e48fdd0d944,Annual Maintenance Supplies,In Approval,23456.45
+e78e980d-0bd1-481a-ac69-f1e11215c29d,New Employee Onboarding Supplies,In Approval,78906.56
+98502f87-d405-49cf-b3ab-365294678eaa,Office Furniture Order,Rejected,39876.89
+5b5a0dcc-0ff2-4b8e-b33d-b99d0659ef94,Stationery and Printing Supplies,Rejected,4567.98
+194f482b-8899-4baf-95ca-a1e9abc95689,Technology Upgrade Request,Saved,88888.88
+f5ac3c5e-1381-4f09-a77e-b8015592f692,Safety Equipment Order,Ordered,10000.68
+a49fef2a-28bd-42bd-a5ce-7fbc9c23d83c,Client Presentation Materials,Ordered,5000.45
+ef254c33-8407-4080-befb-89f268663a2a,Raw Materials for Production,In Approval,45345.78
+95c4b47-731a-4b5d-b803-09118c972371,Event Planning Supplies,Ordered,98765.00
+e2e4d6dd-547b-45c8-a925-223e84938d41,Product Samples Request,Saved,2222.34
+9fd7080-5e0b-4fc5-a051-88def5f2f07b,Marketing Materials Order,Saved,87692.50
+1aeba951-7085-4b29-b77a-256acf6cbcb5,Catering Services Request,Rejected,66666.45
+839ed59-2709-48a9-869f-c4648b6a6e32,Software Licensing Renewal,Rejected,23421.40
+136e855d-e862-404a-96bd-a7cfe4311b5a,Repair Parts for Equipment,Saved,4589.98
+7ecc55f8-7065-46fc-a607-19bf670023f1,Employee Training Materials,Saved,50000.00
+4ec7ca4f-c3d1-455e-b9e5-75a9064313e9,Cleaning Supplies for Office,In Approval,60000.66
